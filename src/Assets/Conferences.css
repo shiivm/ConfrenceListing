@@ -1,0 +1,9 @@
+.searchBox {
+   text-align: center;
+}
+
+.searchBox input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+}
